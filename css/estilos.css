@@ -281,6 +281,11 @@ footer .copyrigth{
     color: #fff;
 }
 
+footer a{
+color:#fff;
+text-decoration:none;
+}
+
 /*----------MEDIA QUERIES----------*/
 
 @media screen and (max-width: 800px){
